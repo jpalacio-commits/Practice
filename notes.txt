@@ -1,0 +1,6 @@
+Something that I need to keep in mind with relative and absolute links: 
+
+-absolute paths for resources and websites outside the websites
+-build consistent pieces, features, and resources that need to be reliable
+-relative pages and resources inside of the website.
+-relative is better for testing, supporting, and cleaning up code better.
